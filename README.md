@@ -2,6 +2,13 @@
 
 This page is a giant list of links related to things I care about professionally.
 
+**Template for links**
+* Title of page
+  * Description
+  * |Date Last Read|
+  * URL
+
+
 # C++
 
 * C++ Tips of the Week from Google https://abseil.io/tips/
@@ -13,14 +20,28 @@ This page is a giant list of links related to things I care about professionally
 * C++ links: debugging: articles, documentation, software, and talks. from MattPD https://github.com/MattPD/cpplinks/blob/master/debugging.md
 * Julia Evans - Computers are Fast - https://jvns.ca/blog/2014/05/12/computers-are-fast/
 
+* Memoro Heap Profiler
+  * https://github.com/epfl-vlsc/memoro
+
 ## Version Control
 
 * Real world git important commands (1 hour of lessons) https://trevordmiller.com/courses/real-world-git
 
 # Computer Graphics
 
-* Graphics Programming Workshop by Stephanie Hulrburt http://stephaniehurlburt.com/blog/2015/10/25/graphics-programming-workshop
-* How Graphics Cards Work https://www.extremetech.com/gaming/269335-how-graphics-cards-work
+* Graphics Programming Workshop by Stephanie Hulrburt
+  * http://stephaniehurlburt.com/blog/2015/10/25/graphics-programming-workshop
+* How Graphics Cards Work
+  * https://www.extremetech.com/gaming/269335-how-graphics-cards-work
+* The Witcher Tips on Rendering
+  * https://drive.google.com/drive/folders/1gmn5XSYDUsOPXXKQO73zCpGAHWAfnK1U
+* 3D File Formats
+  * https://gist.github.com/meshula/654cac9803a37d59a88954e61091f5da
+* How to become an advanced graphics programmer:
+  * https://twitter.com/erkaman2/status/1004030860897783808
+* Real-World Measurements for Call of Duty: Advanced Warfare
+  * Nice look at how to recreate renderings from a real world scene.
+  * https://research.activision.com/t5/Publications/Real-World-Measurements-for-Call-of-Duty-Advanced-Warfare/ba-p/10730743
 
 # Mathematics
 
@@ -39,12 +60,21 @@ Real-Time VFX Community https://realtimevfx.com
 
 # Writing
 
-* Write the Docs http://www.writethedocs.org
+* Write the Docs
+  * http://www.writethedocs.org
 
 # Game Dev
 
-* This website is the public face of an online  community for game tools development. It was mainly born out of the Game Developers Conference Technical Issues in Tools roundtable sessions. http://thetoolsmiths.org
+* This website is the public face of an online  community for game tools development. It was mainly born out of the Game Developers Conference Technical Issues in Tools roundtable sessions. 
+  * http://thetoolsmiths.org
 
 # Researchers to Follow
 
-* Mark Claypool https://web.cs.wpi.edu/~claypool/pubs/Paper.html
+* Mark Claypool 
+  * https://web.cs.wpi.edu/~claypool/pubs/Paper.html
+
+# Paper Reviewing Guidelines
+
+* Paper Review Guidelines
+  * Nice tips for reviewing papers
+  * https://sigcse2019.sigcse.org/reviewers/paper-review-guidelines.html
