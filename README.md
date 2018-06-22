@@ -4,32 +4,31 @@ This page is a giant list of links related to things I care about professionally
 
 # C++
 
-C++ Tips of the Week from Google https://abseil.io/tips/
-
-Introduction to WebDevelopment in C++ with Wt4 (FOSDOM 18) https://fosdem.org/2018/schedule/event/web_development_in_c/
+* C++ Tips of the Week from Google https://abseil.io/tips/
+* Introduction to WebDevelopment in C++ with Wt4 (FOSDOM 18) https://fosdem.org/2018/schedule/event/web_development_in_c/
+* https://www.accu.org 
 
 # Systems
 
-C++ links: debugging: articles, documentation, software, and talks. from MattPD https://github.com/MattPD/cpplinks/blob/master/debugging.md
-
-Julia Evans - Computers are Fast - https://jvns.ca/blog/2014/05/12/computers-are-fast/
+* C++ links: debugging: articles, documentation, software, and talks. from MattPD https://github.com/MattPD/cpplinks/blob/master/debugging.md
+* Julia Evans - Computers are Fast - https://jvns.ca/blog/2014/05/12/computers-are-fast/
 
 ## Version Control
 
-Real world git important commands (1 hour of lessons) https://trevordmiller.com/courses/real-world-git
+* Real world git important commands (1 hour of lessons) https://trevordmiller.com/courses/real-world-git
 
 # Computer Graphics
 
-Graphics Programming Workshop by Stephanie Hulrburt http://stephaniehurlburt.com/blog/2015/10/25/graphics-programming-workshop
+* Graphics Programming Workshop by Stephanie Hulrburt http://stephaniehurlburt.com/blog/2015/10/25/graphics-programming-workshop
+* How Graphics Cards Work https://www.extremetech.com/gaming/269335-how-graphics-cards-work
 
 # Mathematics
 
-Matrices from a geometric perspective http://www.coranac.com/documents/geomatrix/
+* Matrices from a geometric perspective http://www.coranac.com/documents/geomatrix/
 
 # Animation
 
-
-Jason Keyser Artistic Principles of VFX https://www.youtube.com/watch?v=BOE8osaPzOY&list=PLQD_sA-R5qVKVYw3EVuRT7fSJsVukLEhD
+* Jason Keyser Artistic Principles of VFX https://www.youtube.com/watch?v=BOE8osaPzOY&list=PLQD_sA-R5qVKVYw3EVuRT7fSJsVukLEhD
 Real-Time VFX Community https://realtimevfx.com
 
 
@@ -40,7 +39,7 @@ Real-Time VFX Community https://realtimevfx.com
 
 # Writing
 
-Write the Docs http://www.writethedocs.org
+* Write the Docs http://www.writethedocs.org
 
 # Game Dev
 
