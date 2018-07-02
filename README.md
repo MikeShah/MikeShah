@@ -42,6 +42,11 @@ Real-Time VFX Community https://realtimevfx.com
   * Nice look at how to recreate renderings from a real world scene.
   * https://research.activision.com/t5/Publications/Real-World-Measurements-for-Call-of-Duty-Advanced-Warfare/ba-p/10730743
 
+# Influential Papers
+
+* A Mathematical Theory of Communication
+  * http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+
 # Game Dev
 
 * This website is the public face of an online  community for game tools development. It was mainly born out of the Game Developers Conference Technical Issues in Tools roundtable sessions. 
