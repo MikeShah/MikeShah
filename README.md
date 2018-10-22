@@ -41,6 +41,20 @@ Real-Time VFX Community https://realtimevfx.com
 * Real-World Measurements for Call of Duty: Advanced Warfare
   * Nice look at how to recreate renderings from a real world scene.
   * https://research.activision.com/t5/Publications/Real-World-Measurements-for-Call-of-Duty-Advanced-Warfare/ba-p/10730743
+* Jeffrey Chastine youtube video series on OpenGL
+    * https://www.youtube.com/user/jeffchastine/videos
+    
+## Academic Computer Graphics Courses
+
+* Utah Graphics Course
+    * https://graphics.cs.utah.edu/courses/cs6610/spring2018/
+* Carnegie Mellon Graphics Page
+    * http://graphics.cs.cmu.edu/
+
+## Graphics Books
+
+* Graphics Codex
+    * http://graphicscodex.com/index.php
 
 # Influential Papers
 
@@ -61,6 +75,9 @@ Real-Time VFX Community https://realtimevfx.com
 
 * Matrices from a geometric perspective http://www.coranac.com/documents/geomatrix/
 * Discrete mathematics course/notes http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf
+* Essecense of Linear Algebra
+    - Excellent youtube series
+    - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 # Profilers
 
@@ -74,6 +91,8 @@ Real-Time VFX Community https://realtimevfx.com
   * Profiler that samples the instruction pointer and sees what function is currently executing  
 * Telemetry video 
   * https://www.youtube.com/watch?v=aL5Vdmxt528
+* Real-time handling of GPU Interrupts
+    * http://www.cs.unc.edu/techreports/11-002.pdf
 
 # Researchers to Follow
 
@@ -100,6 +119,20 @@ Real-Time VFX Community https://realtimevfx.com
   * http://learning.gem5.org/tutorial/presentations/vis-o3-gem5.pdf
 * COZ profiler on ACM
   * https://cacm.acm.org/magazines/2018/6/228044-coz/fulltext
+  
+* Linux Device Drivers: https://static.lwn.net/images/pdf/LDD3/ch01.pdf  
+
+## LLVM Related
+
+* Writing LLVM Pass in 2018 - Part IV https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-iv-d69dac57171d
+
+### Handy Tools
+
+* Github crash course: https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+## X86 Assembly
+
+* x86_64 Linux Assembly #5 - Math Operations and the Stack https://www.youtube.com/watch?v=NFv7l3wQsZ4
 
 # Writing and reviewing
 
