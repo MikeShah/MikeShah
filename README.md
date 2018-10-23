@@ -24,10 +24,17 @@ Real-Time VFX Community https://realtimevfx.com
 * C++ Tips of the Week from Google https://abseil.io/tips/
 * Introduction to WebDevelopment in C++ with Wt4 (FOSDOM 18) https://fosdem.org/2018/schedule/event/web_development_in_c/
 * https://www.accu.org 
+* Building a SIMD abstraction layer https://jeffamstutz.io/2018/03/30/building-a-c-simd-abstraction-4-n-type-traits-are-your-friend/
+* GNU Tools Cauldren
+  * https://www.youtube.com/playlist?list=PLOGTP9W1DX5VSSCvk_OApXX_Zil1F87s-
+* Copperspice C++ Videos
+  * https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ/videos
 
 
 # Computer Graphics
 
+* 100+ Compilation of graphics academic papers
+  * https://rivten.github.io/2018/08/03/graphics-article-list.html
 * Graphics Programming Workshop by Stephanie Hulrburt
   * http://stephaniehurlburt.com/blog/2015/10/25/graphics-programming-workshop
 * How Graphics Cards Work
@@ -43,6 +50,12 @@ Real-Time VFX Community https://realtimevfx.com
   * https://research.activision.com/t5/Publications/Real-World-Measurements-for-Call-of-Duty-Advanced-Warfare/ba-p/10730743
 * Jeffrey Chastine youtube video series on OpenGL
     * https://www.youtube.com/user/jeffchastine/videos
+* A brief introduction to LERP
+  * https://www.gamedev.net/articles/programming/general-and-gameplay-programming/a-brief-introduction-to-lerp-r4954/?utm_source=gamedevdirect&utm_medium=email
+* SIGGRAPH Multithreading for visual effects course
+  * https://dl.acm.org/citation.cfm?id=3084891
+* SIGGRAPH Course Fundamentals of computer graphics  
+  * https://dl.acm.org/ft_gateway.cfm?id=2788475&type=mp4&path=%2F2790000%2F2788475%2Fa14%2Emp4
     
 ## Academic Computer Graphics Courses
 
@@ -119,6 +132,8 @@ Real-Time VFX Community https://realtimevfx.com
   * http://learning.gem5.org/tutorial/presentations/vis-o3-gem5.pdf
 * COZ profiler on ACM
   * https://cacm.acm.org/magazines/2018/6/228044-coz/fulltext
+* Cache-Line Aware Data structures
+  * https://accu.org/index.php/journals/2535
   
 * Linux Device Drivers: https://static.lwn.net/images/pdf/LDD3/ch01.pdf  
 
@@ -133,6 +148,15 @@ Real-Time VFX Community https://realtimevfx.com
 ## X86 Assembly
 
 * x86_64 Linux Assembly #5 - Math Operations and the Stack https://www.youtube.com/watch?v=NFv7l3wQsZ4
+* Intel Introduction to x64 assembly https://software.intel.com/en-us/articles/introduction-to-x64-assembly
+* Some GAS Assembly examples http://cs.lmu.edu/~ray/notes/gasexamples/
+* GNU Assembler for Intel http://fileadmin.cs.lth.se/cs/education/eda180/tools/intel.pdf
+* Nice guide from MIT on assembly directives: http://web.mit.edu/gnu/doc/html/as_7.html
+* Nice Video Tutorial series on x86_64 https://www.youtube.com/watch?v=VAy4FGHDx1I
+* Using GDB Debugger with Assembly Language https://bob.cs.sonoma.edu/IntroCompOrg-x64/bookap3.html
+* Hello World in Assembly: https://efxa.org/2011/03/02/assembly-gnulinux/
+* Nice Syscall table: https://filippo.io/linux-syscall-table/
+* Brown x86-64 cheat sheet: https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
 
 # Writing and reviewing
 
