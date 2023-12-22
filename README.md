@@ -28,8 +28,6 @@ Real-Time VFX Community https://realtimevfx.com
 * Building a SIMD abstraction layer https://jeffamstutz.io/2018/03/30/building-a-c-simd-abstraction-4-n-type-traits-are-your-friend/
 * GNU Tools Cauldren
   * https://www.youtube.com/playlist?list=PLOGTP9W1DX5VSSCvk_OApXX_Zil1F87s-
-* Copperspice C++ Videos
-  * https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ/videos
 
 
 # Computer Graphics
