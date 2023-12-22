@@ -17,6 +17,7 @@ Real-Time VFX Community https://realtimevfx.com
 # Books to read
 
 [x] The Intelligent Investor https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
+
 [x] C++ Concurrency in Action
 
 # C++
